@@ -8,7 +8,9 @@ app.get('/produtos', (req, res) => {
     { id: 2, nome: 'Mouse', preco: 150 },
     { id: 3, nome: 'Teclado Mecânico', preco: 500 },
     { id: 4, nome: 'Fiap: Aula', preco: 10 },
-    { id: 5, nome: 'Fiap: Aula2', preco: 1010 }
+    { id: 5, nome: 'Fiap: Aula2', preco: 1010 },
+    { id: 6, nome: 'Fiap: Aula3', preco: 1245 }
+    
   ]);
 });
 
